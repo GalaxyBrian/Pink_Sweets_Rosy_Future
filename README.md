@@ -45,7 +45,7 @@ MAME will warn about a wrong checksum for `u4`. That's expected.
 On real hardware, **read and keep a backup of your original u4 flash** before writing the patched one.
 
 ## Testing
-This patch was tested with MAME 0.264.<br>
+This patch was tested with MAME 0.289 and [CV1k core for the MiSTer FPGA by Raki](https://www.patreon.com/c/ikamusume/posts)<br>
 
 ## Credits
 
