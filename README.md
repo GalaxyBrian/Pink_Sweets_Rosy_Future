@@ -28,14 +28,14 @@ Only `u4` changes. `u2`, `u23` and `u24` stay as they are. No ROM data is includ
 
 <table>
   <tr>
-    <td align="center"><img src="screenshots/0000.png" width="240" alt="Arcade boss fight"></td>
     <td align="center"><img src="screenshots/0002.png" width="240" alt="Warning screen"></td>
     <td align="center"><img src="screenshots/0003.png" width="240" alt="Title menu"></td>
+    <td align="center"><img src="screenshots/0000.png" width="240" alt="Arcade boss fight"></td>
   </tr>
   <tr>
-    <td align="center">Arcade with rank, ZAN and the boss timer and health</td>
     <td align="center">Warning screen</td>
     <td align="center">Title menu with all four modes</td>
+    <td align="center">Arcade with rank, ZAN and the boss timer and health</td>
   </tr>
 </table>
 
