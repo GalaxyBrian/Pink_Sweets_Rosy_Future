@@ -5,7 +5,7 @@ A patch for **Pink Sweets: Ibara Sorekara** (Cave, CV1000 / SH-3, 2006/04/06 MAS
 | | CRC32 |
 |---|---|
 | Original `u4` (required) | `5d812c9e` |
-| Patched `u4` | `352526e0` |
+| Patched `u4` | `b0dcd310` |
 
 Only `u4` changes. `u2`, `u23` and `u24` stay as they are. No ROM data is included in this repository.
 
@@ -22,6 +22,7 @@ Only `u4` changes. `u2`, `u23` and `u24` stay as they are. No ROM data is includ
   - Arcade, Harder and Extended: ZAN sits under RANK on the right, with the boss timer and health under it in place of the credit message.
   - Score Attack: no extra HUD, the game's own display is left as it is.
   - 2 players: ZAN, the boss timer and the rank meter are removed and the 2P score comes back.
+- **Warning screen.** Shows `PINK SWEETS ROSY FUTURE` and `CAVE OWNS!!!`, with `2026/10/14 ROSY FUTURE` at the bottom.
 
 ## Screenshots
 
