@@ -64,7 +64,7 @@ This patch was tested with MAME 0.289 and [CV1k core for the MiSTer FPGA by Raki
 
 - [GalaxyBrian](https://github.com/GalaxyBrian)  project, testing
 - [Claude](https://claude.ai) (Anthropic)  reverse engineering and patch code
-- Rank research from the [shmups.wiki](https://shmups.wiki) Pink Sweets pages
+- Rank research from the [shmups.wiki](https://shmups.wiki) Pink Sweets pages and from [Pink Sweets Suicide Club Rom Hack](https://suicideclub.gameordie.com/)
 
 ## Disclaimer
 
