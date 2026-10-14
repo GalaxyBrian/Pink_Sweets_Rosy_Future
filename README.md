@@ -39,6 +39,18 @@ Only `u4` changes. `u2`, `u23` and `u24` stay as they are. No ROM data is includ
   </tr>
 </table>
 
+## Web patcher
+
+The easiest way: open the **[Pink Sweets Rosy Future Patcher](https://galaxybrian.github.io/Pink_Sweets_Rosy_Future/)** and drop in `pinkswts.zip`. You can also drop a loose `pinkswts_u4`.
+
+The page checks that `pinkswts_u4` is the original (`5d812c9e`) and patches it. It then checks the result is `b0dcd310` before offering:
+
+- `pinkswts.zip`: the full set with `pinkswts_u4` replaced
+- `pinkswts_u4.zip`
+- the raw `pinkswts_u4`
+
+Everything runs in your browser and nothing is uploaded.
+
 ## Before you flash
 
 MAME will warn about a wrong checksum for `u4`. That's expected.
