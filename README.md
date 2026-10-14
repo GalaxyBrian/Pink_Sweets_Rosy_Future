@@ -5,7 +5,7 @@ A patch for **Pink Sweets: Ibara Sorekara** (Cave, CV1000 / SH-3, 2006/04/06 MAS
 | | CRC32 |
 |---|---|
 | Original `u4` (required) | `5d812c9e` |
-| Patched `u4` | `135aba4e` |
+| Patched `u4` | `3eced829` |
 
 Only `u4` changes. `u2`, `u23` and `u24` stay as they are. No ROM data is included in this repository.
 
@@ -22,7 +22,7 @@ Only `u4` changes. `u2`, `u23` and `u24` stay as they are. No ROM data is includ
   - Arcade, Harder and Extended: ZAN sits under RK on the right, with the boss timer and health under it in place of the credit message.
   - Score Attack: no extra HUD, the game's own display is left as it is.
   - 2 players: ZAN, the boss timer and the rank meter are removed and the 2P score comes back.
-- **Warning screen.** Shows `PINK SWEETS ROSY FUTURE` and `CAVE OWNS!!!`, with `2026/10/14 ROSY FUTURE` at the bottom.
+- **Warning screen.** Shows `PINK SWEETS ROSY FUTURE` and `CAVE OWNS!!!`, with `2026/10/15 ROSY FUTURE` at the bottom.
 
 ## Screenshots
 
@@ -43,7 +43,7 @@ Only `u4` changes. `u2`, `u23` and `u24` stay as they are. No ROM data is includ
 
 The easiest way: open the **[Pink Sweets Rosy Future Patcher](https://galaxybrian.github.io/Pink_Sweets_Rosy_Future/)** and drop in `pinkswts.zip`. Make sure the `pinkswts.zip` only contains the 4 files and not subfolders otherwise things will get messy. You can also drop a loose `pinkswts_u4`.
 
-The page checks that `pinkswts_u4` is the original (`5d812c9e`) and patches it. It then checks the result is `135aba4e` before offering:
+The page checks that `pinkswts_u4` is the original (`5d812c9e`) and patches it. It then checks the result is `3eced829` before offering:
 
 - `pinkswts.zip`: the full set with `pinkswts_u4` replaced
 - `pinkswts_u4.zip`
