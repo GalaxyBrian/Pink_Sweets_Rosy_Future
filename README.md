@@ -1,6 +1,6 @@
 # Pink Sweets Rosy Future
 
-A patch for **Pink Sweets: Ibara Sorekara** (Cave, CV1000 / SH-3, 2006/04/06 MASTER VER.), applied to the program ROM `u4`.
+A patch for **Pink Sweets: Ibara Sorekara** (Cave, CV1000 / SH-3, 2006/04/06 MASTER VER....), applied to the program ROM `u4`.
 
 | | CRC32 |
 |---|---|
